@@ -6,7 +6,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="spring-crm-rest" />
+          <factory-entry name="spring-crm-rest" value="41e7346b-9c99-4cf8-8789-492b89e40698" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>
